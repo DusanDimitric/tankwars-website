@@ -9,6 +9,7 @@ excerpt: A list of existing tank APIs
 ## Belgrade, September 2016
 
 * [Fury - team Milan](https://vpaed0ruq8.execute-api.us-east-1.amazonaws.com/latest)
+* [MEXICO](https://bb06b6b2bk.execute-api.us-east-1.amazonaws.com/latest)
 * 
 * add your tank with a pull request to [github.com/serverlesscamp/tankwars-website](https://github.com/serverlesscamp/tankwars-website/tree/master/pages/tank_brigade.md)
 
